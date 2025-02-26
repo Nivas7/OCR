@@ -1,0 +1,16 @@
+[project]
+name = "ocr"
+version = "0.1.0"
+description = "It is a Python-based Optical Character Recognition (OCR) tool specifically designed for the Tamil language. This project aims to accurately extract and digitize Tamil text from images, scanned documents, or handwritten sources. Leveraging state-of-the-art OCR techniques and machine learning models, It ensures high precision and efficiency in recognizing Tamil script, making it a valuable tool for preserving and processing Tamil literature, documents, and digital content."
+authors = [
+    {name = "Srinivas",email = "nivasniyas24@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
